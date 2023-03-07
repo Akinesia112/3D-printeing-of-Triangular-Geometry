@@ -53,7 +53,7 @@ Before printing, some parameters are adjusted to reduce the time required.:
 
 #### Printing result
 
-![Result](3D printer results.jpg)
+![Result](3D_printer_results.jpg)
 
 - Result of Triangular Geometry
 
