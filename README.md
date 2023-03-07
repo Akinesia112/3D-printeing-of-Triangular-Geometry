@@ -34,11 +34,9 @@
 
 > The ***G1*** command tells your printer to move in a straight line to the location that you specify. ***G28*** is used to zero return the tool to its zero position via a reference point at rapid speed, and ***G92*** command specifies the current location of the nozzle. ***M104*** sets a new target hot end temperature and continue without waiting, while ***M140*** sets a new target temperature for the heated bed. ***M84*** command can be used to set the stepper inactivity timeout (S) or to disable one or more steppers (X,Y,Z,E).
 
-![Triangular Geometry in cura](https://note.rccn.dev/uploads/upload_d2f3cf62451857565dbe46376780a2de.png)
-![Triangular Geometry in cura](https://note.rccn.dev/uploads/upload_d2f3cf62451857565dbe46376780a2de.png)
+![Triangular Geometry in cura](cura_tri.png)
 
-
-![tri_analysis](cura_tri.png)
+![tri_analysis](tri_analysis.png)
 
 - Triangular Geometry in cura
 
@@ -55,7 +53,7 @@ Before printing, some parameters are adjusted to reduce the time required.:
 
 #### Printing result
 
-![Result](https://note.rccn.dev/uploads/upload_2bf289cf83f490d86df3e45a65405829.jpg)
+![Result](3D printer results.jpg)
 
 - Result of Triangular Geometry
 
